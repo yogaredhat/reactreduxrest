@@ -1,0 +1,21 @@
+{
+	"data": [{
+		"id": "1",
+		"type": "cats",
+		"attributes": {
+			"name": "Moebin",
+			"breed": "Tabby",
+			"weight": "fat",
+			"temperament": "entitled"
+		},
+		"relationships": {
+			"hobbies": {
+				"data": [{
+					"id": "1",
+					"type": "hobbies"
+				}]
+			}
+		}
+	}]
+
+}
